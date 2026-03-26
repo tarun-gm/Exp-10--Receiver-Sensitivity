@@ -13,6 +13,11 @@ If only thermal noise is considered, the sensitivity of a PIN photodiode-based r
 
 
 <img width="1126" height="718" alt="image" src="https://github.com/user-attachments/assets/22298a91-302d-41e4-b254-86c9b8ec704e" />
+## block diagram
+<img width="634" height="341" alt="image" src="https://github.com/user-attachments/assets/bd94d86c-d2c3-4fdb-9592-42827a10f74e" />
+## model graph
+<img width="944" height="741" alt="image" src="https://github.com/user-attachments/assets/b55ea8ae-dc35-4435-8b56-d20a1ef59c01" />
+
 
 ---
 
